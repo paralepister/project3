@@ -164,7 +164,7 @@ div[data-scrollbar] {
 }
 
 .logo--mobile--black svg .logo-g {
-  fill: #000 !important
+  fill: #000000 !important
 }
 
 @media (max-width:768.98px) {
